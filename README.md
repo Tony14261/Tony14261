@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me ...
 
 <!---
 Tony14261/Tony14261 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
