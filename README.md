@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tony14261
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Github
 
 <!---
