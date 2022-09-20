@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tony14261
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Github
+- 💞️ I’m looking to collaborate on Github & Scratch
 
 <!---
 Tony14261/Tony14261 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
