@@ -1,6 +1,6 @@
 ### Information
 - 👋 Hi, I’m @Tony14261
-- 👀 I’m interested in coding
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning some programming languages (mostly Python)
 ### Repositories
 (listed on what I like most)
