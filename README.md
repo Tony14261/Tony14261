@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning some programming languages (mostly Python)
 ### Repositories
 (listed on what I like most)
-- [tscratchapiget](https://github.com/Tony14261/tscratchapiget) (a Python library)
 - [The Python Master](https://github.com/Tony14261/ThePythonMaster)
+- [tscratchapiget](https://github.com/Tony14261/tscratchapiget) (a Python module)
 
 
 <!---
