@@ -33,7 +33,7 @@
 </p>
 -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=py" alt="Skills"/>
 </p>
 <!-- Projects Section -->
 <h1 align="center">Projects</h1>
