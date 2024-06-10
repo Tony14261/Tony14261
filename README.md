@@ -36,7 +36,6 @@
   <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="Skills"/>
 </p>
 <!-- Projects Section -->
-
 <h1 align="center">Projects</h1>
 <div align="center">
   <!-- Project 1 -->
@@ -55,16 +54,13 @@
 <h1 align="center">GitHub Stats</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tony14261&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tony14261&theme=radical" alt="GitHub Streak Stats" />
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tony14261&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<!-- Footer Section -->
+<!-- Footer Section
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+-->
