@@ -17,7 +17,7 @@
 <!-- About Section -->
 <h3 align="center">About Me</h3>
 <p align="center">
-  I enjoy programming. I am learning programming languages, mostly Java currently. Python is my main programming  <br>
+  I enjoy programming. I am learning programming languages, Java currently. Python is my main programming  <br>
   My finished projects are all on <a href="https://github.com/Tony14261?tab=repositories">Github</a>
 </p>
 
