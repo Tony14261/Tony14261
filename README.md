@@ -1,41 +1,70 @@
-# 👋 Hello, I'm [Your Name]!
+<!-- Header Section -->
+<h1 align="center">Hi 👋, I'm Tony</h1>
+<h3 align="center">A student who loves programming</h3>
 
-<!-- Profile Card -->
-<div style="background-color: #f9f9f9; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding: 20px; margin: 10px; text-align: center;">
-  <img src="https://example.com/profile.png" alt="Profile Image" style="border-radius: 50%; width: 100px;">
-  <h2>[Your Name]</h2>
-  <p>Software Developer | Open Source Enthusiast | Tech Blogger</p>
-  <a href="https://linkedin.com/in/your-username" style="color: #0366d6; text-decoration: none; font-weight: bold;">LinkedIn</a> |
-  <a href="https://twitter.com/your-username" style="color: #0366d6; text-decoration: none; font-weight: bold;">Twitter</a>
-</div>
+<!-- Profile Image -->
+<p align="center">
+  <img src="https://github.com/Tony14261/Tony14261/blob/main/Tony%20Logo.png" alt="Profile Image" width="150" />
+</p>
 
-<!-- Skills Card -->
-<div style="background-color: #ffffff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding: 20px; margin: 10px;">
-  <h2>🛠️ Skills</h2>
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  </p>
-</div>
+<!-- Social Links -->
+<p align="center">
+  <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://scratch.mit.edu/users/Scratch_Tony_14261" target="blank"><img align="center" src="https://img.shields.io/badge/-Scratch-orange?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch" /></a>
+  <a href="https://github.com/Tony14261" target="blank"><img align="center" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-<!-- Project Cards -->
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<!-- About Section -->
+<h3 align="center">About Me</h3>
+<p align="center">
+  I enjoy programming. I am learning programming languages, mostly Java currently. Python is my main programming  <br>
+  My finished projects are all on <a href="https://github.com/Tony14261?tab=repositories">Github</a>
+</p>
 
-  <!-- Card 1 -->
-  <div style="background-color: #ffffff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 300px; padding: 20px; margin: 10px;">
-    <img src="https://example.com/project1-image.png" alt="Project 1" style="border-radius: 10px 10px 0 0; width: 100%;">
-    <h2>Project 1</h2>
-    <p>A brief description of what Project 1 does.</p>
-    <a href="https://github.com/your-username/project1" style="color: #0366d6; text-decoration: none; font-weight: bold;">View Project</a>
+<!-- Skills Section -->
+<h3 align="center">Skills</h3>
+<!--
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
+-->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="Skills"/>
+</p>
+<!-- Projects Section -->
+
+<h1 align="center">Projects</h1>
+<div align="center">
+  <!-- Project 1 -->
+  <div style="display: inline-block; margin: 10px; text-align: left;">
+    <h4>Project 1</h4>
+    <p>A brief description of Project 1. <a href="https://github.com/your-username/project1" target="blank">View Project</a></p>
   </div>
-
-  <!-- Card 2 -->
-  <div style="background-color: #ffffff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 300px; padding: 20px; margin: 10px;">
-    <img src="https://example.com/project2-image.png" alt="Project 2" style="border-radius: 10px 10px 0 0; width: 100%;">
-    <h2>Project 2</h2>
-    <p>A brief description of what Project 2 does.</p>
-    <a href="https://github.com/your-username/project2" style="color: #0366d6; text-decoration: none; font-weight: bold;">View Project</a>
+  <!-- Project 2 -->
+  <div style="display: inline-block; margin: 10px; text-align: left;">
+    <h4>Project 2</h4>
+    <p>A brief description of Project 2. <a href="https://github.com/your-username/project2" target="blank">View Project</a></p>
   </div>
-
 </div>
+
+<!-- GitHub Stats Section -->
+<h1 align="center">GitHub Stats</h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tony14261&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tony14261&theme=radical" alt="GitHub Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tony14261&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<!-- Footer Section -->
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
