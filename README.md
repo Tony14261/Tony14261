@@ -41,12 +41,12 @@
   <!-- Project 1 -->
   <div style="display: inline-block; margin: 10px; text-align: left;">
     <h4>Project 1</h4>
-    <p>A brief description of Project 1. <a href="https://github.com/your-username/project1" target="blank">View Project</a></p>
+    <p>Placeholder <a href="https://github.com/your-username/project1" target="blank">View Project</a></p>
   </div>
   <!-- Project 2 -->
   <div style="display: inline-block; margin: 10px; text-align: left;">
     <h4>Project 2</h4>
-    <p>A brief description of Project 2. <a href="https://github.com/your-username/project2" target="blank">View Project</a></p>
+    <p>Placeholder<a href="https://github.com/your-username/project2" target="blank">View Project</a></p>
   </div>
 </div>
 
