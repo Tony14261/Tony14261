@@ -40,8 +40,8 @@
 <div align="center">
   <!-- Project 1 -->
   <div style="display: inline-block; margin: 10px; text-align: left;">
-    <h4>Project 1</h4>
-    <p>Placeholder <a href="https://github.com/your-username/project1" target="blank">View Project</a></p>
+    <h4>Dicing - Discord Bot</h4>
+    <p> <a href="https://github.com/Tony14261/Dicing" target="blank">View Project</a></p>
   </div>
   <!-- Project 2 -->
   <div style="display: inline-block; margin: 10px; text-align: left;">
