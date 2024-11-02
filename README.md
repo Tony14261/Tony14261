@@ -45,8 +45,8 @@
   </div>
   <!-- Project 2 -->
   <div style="display: inline-block; margin: 10px; text-align: left;">
-    <h4>Project 2</h4>
-    <p>Placeholder<a href="https://github.com/your-username/project2" target="blank">View Project</a></p>
+    <h4>The Python Master</h4>
+    <p>Placeholder<a href="https://github.com/Tony14261/ThePythonMaster" target="blank">View Project</a></p>
   </div>
 </div>
 
