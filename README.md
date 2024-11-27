@@ -18,7 +18,7 @@
 <h3 align="center">About Me</h3>
 <p align="center">
   I enjoy programming. I am learning programming languages and Python is my main language<br>
-  My finished projects are all on <a href="https://github.com/Tony14261?tab=repositories">Github</a>
+  My projects are all on <a href="https://github.com/Tony14261?tab=repositories">Github</a>
 </p>
 
 <!-- Skills Section -->
@@ -40,8 +40,8 @@
 <div align="center">
   <!-- Project 1 -->
   <div style="display: inline-block; margin: 10px; text-align: left;">
-    <h4>Dicing - Discord Bot</h4>
-    <p> <a href="https://github.com/Tony14261/Dicing" target="blank">View Project</a></p>
+    <h4>MicroMightyBot - Discord Bot</h4>
+    <p> <a href="https://github.com/Tony14261/MicroMightyBot/" target="blank">View Project</a></p>
   </div>
   <!-- Project 2 -->
   <div style="display: inline-block; margin: 10px; text-align: left;">
