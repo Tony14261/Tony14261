@@ -17,8 +17,8 @@
 <!-- About Section -->
 <h3 align="center">About Me</h3>
 <p align="center">
-  I enjoy programming. I am learning programming languages and Python is my main language<br>
-  My projects are all on <a href="https://github.com/Tony14261?tab=repositories">Github</a>
+  I enjoy programming. That's all I guess.<br>
+  All of my projects are usually public on <a href="https://github.com/Tony14261?tab=repositories">my Github</a>
 </p>
 
 <!-- Skills Section -->
@@ -33,7 +33,7 @@
 </p>
 -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=py" alt="Python"/>
 </p>
 <!-- Projects Section -->
 <h1 align="center">Projects</h1>
